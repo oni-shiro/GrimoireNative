@@ -1,0 +1,6 @@
+@Grimoire.Order_HostAddress = http://localhost:5021
+
+GET {{Grimoire.Order_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
